@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56301313056",
+    "project_id": "harsh-potfolio",
+    "storage_bucket": "harsh-potfolio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56301313056:android:8f320cbe6ccc67095e7045",
+        "android_client_info": {
+          "package_name": "com.harsh.workspace.harsh_portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtsa4d-86RERuxwi_jDVnTwb7jOTWwD1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56301313056:android:b2652fc19ae1be035e7045",
+        "android_client_info": {
+          "package_name": "harsh.com.harsh.workspace.harsh_portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtsa4d-86RERuxwi_jDVnTwb7jOTWwD1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
